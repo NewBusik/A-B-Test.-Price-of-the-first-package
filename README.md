@@ -1,21 +1,20 @@
 # A-B-Test.-Price-of-the-first-package
+
 This was one of my case projects for Analytics Summer Camp at Genesis Academy
 
 ## Кейс. Бізнесова складова.
-◾ Social Discovery Platform
-◾ Transactional Model
+◾ Social Discovery Platform 
+◾ Transactional Model 
 ◾ High Rollers
 
-### Перший пакет
-
-
+### Перший пакет
+![Схема першого пакету](images/Screenshot_45.png)
 
 ### Тест
+![Налаштування тесту](images/Screenshot_46.png)
 
-
-
-### Результати
-◾ Стало менше платників
+## Результати
+◾ Стало менше платників 
 ◾ ... але вони більше платять 🤔
 
 ## Завдання
@@ -24,14 +23,14 @@ This was one of my case projects for Analytics Summer Camp at Genesis Academy
 3. Запропонувати спосіб визначення ціни першого пакету для різних сегментів користувачів.
 
 ## Дані
-●  id_user - ідентифікатор користувача;
-●  split_group - номер спліт-групи. 0 - контрольна група без змін, 1 - тестова група;
-●  gender - стать користувачів;
-●  os - операційна система;
-●  browser - браузер користувача;
-●  age_group - вікова група користувачів;
-●  device - модель пристрою користувача;
-●  traffic_type - джерело трафіку;
-●  country_group - країна користувача. Країни обʼєднані у кілька груп;
-●  amount_Nd - сума оплат за N днів;
-●  spend_Nd - сума трат кредитів за N днів.
+● id_user - ідентифікатор користувача; 
+● split_group - номер спліт-групи. 0 - контрольна група без змін, 1 - тестова група; 
+● gender - стать користувачів; 
+● os - операційна система; 
+● browser - браузер користувача; 
+● age_group - вікова група користувачів; 
+● device - модель пристрою користувача; 
+● traffic_type - джерело трафіку; 
+● country_group - країна користувача. Країни обʼєднані у кілька груп; 
+● amount_Nd - сума оплат за N днів; 
+● spend_Nd - сума трат кредитів за N днів.
