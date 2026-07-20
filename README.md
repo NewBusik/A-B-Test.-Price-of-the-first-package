@@ -34,3 +34,6 @@ This was one of my case projects for Analytics Summer Camp at Genesis Academy
 ● country_group - країна користувача. Країни обʼєднані у кілька груп; 
 ● amount_Nd - сума оплат за N днів; 
 ● spend_Nd - сума трат кредитів за N днів.
+
+## Розв'язання:
+https://same-grin-ea8.notion.site/1-231d2886ec1380708babe725d4e2a129
